@@ -20,7 +20,7 @@
 - I can read and understand some code written in <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/java.svg" alt="." width="16" height="16"/> [Java](https://www.java.com/en/) and <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="." width="16" height="16"/> Flutter
 - I’m currently learning <img src="https://go.dev/images/favicon-gopher.png" alt="." width="16" height="16"/> [Go](https://go.dev/)
 
-<img src="images/ganyu_body.png" width="350" align="right" />
+<img src="images/ganyu_body.png" width="300" align="right" />
 <br/>
 <!-- <img src="images/repo.png" width="500" /> -->
 <br/>
