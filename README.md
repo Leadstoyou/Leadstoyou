@@ -58,4 +58,4 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/DiscordBotClient,aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/DiscordBotClient&aiko-chan-ai/discord.js-selfbot-v13&Date)
 
 
-## Thanks for reading ❤️
+## Here is the source of this README: https://github.com/aiko-chan-ai, I copied it for entertainment purposes only.  ❤️
