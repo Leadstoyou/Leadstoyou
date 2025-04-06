@@ -17,7 +17,7 @@
 
 
 - I'm quite skilled with <img src="https://i.imgur.com/Xjb867j.png" alt="." width="16" height="16"/> JavaScript, <img src="https://i.imgur.com/eZxBcrA.png" alt="." width="16" height="16"/> [NodeJS](https://nodejs.org/) and <img src="https://www.typescriptlang.org/favicon-32x32.png" alt="." width="16" height="16"/> TypeScript
-- I can read and understand some code written in <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/java.svg" alt="." width="16" height="16"/> [Java](https://www.python.org/) and <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="." width="16" height="16"/> Flutter
+- I can read and understand some code written in <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/java.svg" alt="." width="16" height="16"/> [Java](https://www.java.com/en/) and <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="." width="16" height="16"/> Flutter
 - I’m currently learning <img src="https://go.dev/images/favicon-gopher.png" alt="." width="16" height="16"/> [Go](https://go.dev/)
 
 <img src="images/ganyu_body.png" width="350" align="right" />
