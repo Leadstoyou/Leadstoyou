@@ -6,7 +6,7 @@
 <br/>
 <br/>
   
-- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> Vietnamese Dev 
+- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/>A Vietnamese Dev 
 - <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="16" height="16" /> I'm ~20 years old. ;-;
 - 🎮 I used to playing some games : 
     <br/>
